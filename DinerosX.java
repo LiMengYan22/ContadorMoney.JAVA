@@ -1,5 +1,5 @@
 import java.util.*;
-public class Dineros3
+public class DinerosX
 {
 public static void main(String[] args)
 {
