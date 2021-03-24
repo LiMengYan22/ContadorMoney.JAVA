@@ -1,2 +1,2 @@
 # ContadorMoney.JAVA
-Cuenta dinero y desglosa los billetes, en JAVA
+Cuenta dinero (clases) y *desglosa* los billetes, **en JAVA.**
